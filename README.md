@@ -1,2 +1,2 @@
-# Online-Retail-Machine-Learning-Analysis-
-K-means and Hierarchical clustering
+# Machine-Learning-Analysis-
+K-means and Hierarchical clustering analysis of Online retail data
